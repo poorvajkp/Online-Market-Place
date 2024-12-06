@@ -1,6 +1,7 @@
 {
   "name": "online-market-place",
   "version": "1.0.0",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "ejs": "^3.1.10",
     "ejs-mate": "^4.0.0",
